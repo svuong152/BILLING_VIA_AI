@@ -1,0 +1,14 @@
+{
+  "MENU": [
+    { "MON": "COM", "GIA": 5000 },
+    { "MON": "TRUNGCHIEN", "GIA": 12000 },
+    { "MON": "THITKHOTRUNG", "GIA": 18000 },
+    { "MON": "THITKHOTIEU", "GIA": 17000 },
+    { "MON": "CAHUKHO", "GIA": 22000 },
+    { "MON": "CANHCHUA", "GIA": 10000 },
+    { "MON": "CANHCAI", "GIA": 9000 },
+    { "MON": "DAUHUSOTCA", "GIA": 16000 },
+    { "MON": "GACHIEN", "GIA": 25000 },
+    { "MON": "RAUMUONGXAO", "GIA": 8000 }
+  ]
+}
